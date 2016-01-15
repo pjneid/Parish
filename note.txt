@@ -2,3 +2,6 @@
 
 check this link for multilanguage
 http://afana.me/post/aspnet-mvc-internationalization.aspx
+
+and this link for RTL
+https://github.com/morteza/bootstrap-rtl
