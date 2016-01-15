@@ -1,0 +1,4 @@
+# Parish
+
+check this link for multilanguage
+http://afana.me/post/aspnet-mvc-internationalization.aspx
